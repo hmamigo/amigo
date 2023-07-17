@@ -18,7 +18,7 @@
 
 ## Install
 ```bash
-$ git clone https://www.github.com/hmamigo/amigo.gif
+$ git clone https://github.com/hmamigo/amigo.git
 $ cd amigo
 $ dart compile exe bin/amigo.dart -o amigo      # Linux, MacOS, Termux (Android)
 $ dart compile exe bin/amigo.dart -o amigo.exe  # Windows
